@@ -1,5 +1,5 @@
-" Tomorrow Night - Full Colour and 256 Colour
-" http://chriskempson.com
+" Microsoft Night - Full Colour and 256 Colour
+" Based off Tommorrow Night from http://chriskempson.com
 "
 " Hex colour conversion functions borrowed from the theme "Desert256""
 
